@@ -1,4 +1,48 @@
-<!doctype html>
-<html dir="ltr">
+<!DOCTYPE html>
+<html><head>
   <meta name="google-site-verification" content="cXhTmMKP7qZ0S8WuN2redgTMPbp0eselYvsNz63Lj_Y" />
-</html>
+    <meta charset="utf-8">
+    <title>隐私政策</title>
+    <style media="screen">
+        body {
+            font-family: Roboto, Arial, sans-serif;
+            background: #ECEFF1;
+            color: rgba(0,0,0,0.87);
+        }
+
+        a {
+            color: rgb(3,155,229);
+        }
+
+        #message {
+            max-width: 800px;
+            margin: 40px auto;
+            box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2),0 1px 1px 0 rgba(0,0,0,0.14),0 2px 1px -1px rgba(0,0,0,0.12);
+            border-radius: 2px;
+            background: white;
+            padding: 16px 24px;
+        }
+
+        #message p {
+            font-weight: 300;
+            line-height: 150%;
+        }
+
+        #message ul {
+            margin: 16px 0 0;
+            padding: 10;
+            text-align: left;
+            font-weight: 300;
+            line-height: 150%;
+        }
+
+        }
+    </style>
+</head>
+<body>
+<div id="message">
+    <h1>隐私政策</h1>
+</div>
+
+
+</body></html>
