@@ -1,0 +1,162 @@
+{
+	"seed": [
+		{
+			"id": 1,
+			"name": "Flower 1",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "/public/flower/tulip/thumb.svg",
+			"price": 88888
+		},
+		{
+			"id": 2,
+			"name": "Flower 2",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "/public/flower/lilyofthevalley/thumb.svg",
+			"price": 8888
+		},
+		{
+			"id": 3,
+			"name": "Flower 3",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 888
+		},
+		{
+			"id": 4,
+			"name": "Flower 4",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		},
+		{
+			"id": 5,
+			"name": "Flower 5",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		},
+		{
+			"id": 6,
+			"name": "Flower 6",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		}
+	],
+	"manure": [
+		{
+			"id": 7,
+			"name": "Manure 1",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 888
+		},
+		{
+			"id": 7,
+			"name": "Manure 2",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		},
+		{
+			"id": 7,
+			"name": "Manure 3",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 8
+		},
+		{
+			"id": 7,
+			"name": "Manure 4",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		},
+		{
+			"id": 7,
+			"name": "Manure 5",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		},
+		{
+			"id": 7,
+			"name": "Manure 6",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		},
+		{
+			"id": 7,
+			"name": "Manure 7",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		},
+		{
+			"id": 7,
+			"name": "Manure 8",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		},
+		{
+			"id": 7,
+			"name": "Manure 9",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		}
+	],
+	"prop": [
+		{
+			"id": 7,
+			"name": "Prop 1",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 8888
+		},
+		{
+			"id": 7,
+			"name": "Prop 2",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 888
+		},
+		{
+			"id": 7,
+			"name": "Prop 3",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		},
+		{
+			"id": 7,
+			"name": "Prop 4",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 8
+		},
+		{
+			"id": 7,
+			"name": "Prop 5",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		},
+		{
+			"id": 7,
+			"name": "Prop 6",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		},
+		{
+			"id": 7,
+			"name": "Flower 7",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "",
+			"price": 88
+		}
+	]
+}
