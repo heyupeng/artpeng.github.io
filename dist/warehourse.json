@@ -1,0 +1,24 @@
+{
+	"seed": [
+		{
+			"id": 1,
+			"name": "Tulip",
+			"type": "tulip",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "/public/flower/tulip/thumb.svg",
+			"num": 4,
+			"price": 88888
+		},
+		{
+			"id": 2,
+			"name": "Lily of the valley",
+			"type": "lilyofthevalley",
+			"desc": "Grade 28 crop, mature in 19 hours, expected yield: 38/grade",
+			"image_url": "/public/flower/lilyofthevalley/thumb.svg",
+			"num": 10,
+			"price": 8888
+		}
+	],
+	"manure": [],
+	"prop": []
+}
